@@ -8,9 +8,9 @@
   </patient>
 
   <patient id="P-102" status="stable">
-    <name>Jordan Hale</name>
-    <ward>Recovery</ward>
-    <condition>Headache &amp; Fever</condition>
-    <observation code="BP" unit="mmHg">122</observation>
+    <name>James Wilson</name>
+    <ward>General Ward</ward>
+    <condition>Cold &amp; Cough</condition>
+    <observation code="HR" unit="bpm">75</observation>
   </patient>
 </clinic>
