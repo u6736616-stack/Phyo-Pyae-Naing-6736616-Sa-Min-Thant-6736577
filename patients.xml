@@ -10,7 +10,7 @@
   <patient id="P-102" status="stable">
     <name>Jordan Hale</name>
     <ward>Recovery</ward>
-    <condition>Headache &amp; Fever</condition>
+    <condition>Headache & Fever</condition>
     <observation code="BP" unit="mmHg">122</observation>
   </patient>
 </clinic>
