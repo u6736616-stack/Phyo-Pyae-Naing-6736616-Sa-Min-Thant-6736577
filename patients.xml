@@ -10,7 +10,7 @@
   <patient id="P-102" status="stable">
     <name>James Wilson</name>
     <ward>General Ward</ward>
-    <condition>Cold & Cough</condition>
+    <condition>Cold &amp; Cough</condition>
     <observation code="HR" unit="bpm">75</observation>
   </patient>
 </clinic>
